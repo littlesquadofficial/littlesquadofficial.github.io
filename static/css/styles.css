@@ -43,3 +43,7 @@ h1 {
 hr {
 	border: 1px solid #f4c2c2;
 }
+
+#what {
+	display: block;
+}
